@@ -1,0 +1,15 @@
+C:\Users\mine-\source\repos\KartOyunu\KartOyunu\obj\Debug\KartOyunu.csprojAssemblyReference.cache
+C:\Users\mine-\source\repos\KartOyunu\KartOyunu\obj\Debug\KartOyunu.Form1.resources
+C:\Users\mine-\source\repos\KartOyunu\KartOyunu\obj\Debug\KartOyunu.Properties.Resources.resources
+C:\Users\mine-\source\repos\KartOyunu\KartOyunu\obj\Debug\KartOyunu.csproj.GenerateResource.cache
+C:\Users\mine-\source\repos\KartOyunu\KartOyunu\obj\Debug\KartOyunu.csproj.CoreCompileInputs.cache
+C:\Users\mine-\Desktop\örnekler\repos\KartOyunu\KartOyunu\bin\Debug\KartOyunu.exe.config
+C:\Users\mine-\Desktop\örnekler\repos\KartOyunu\KartOyunu\bin\Debug\KartOyunu.exe
+C:\Users\mine-\Desktop\örnekler\repos\KartOyunu\KartOyunu\bin\Debug\KartOyunu.pdb
+C:\Users\mine-\Desktop\örnekler\repos\KartOyunu\KartOyunu\obj\Debug\KartOyunu.csprojAssemblyReference.cache
+C:\Users\mine-\Desktop\örnekler\repos\KartOyunu\KartOyunu\obj\Debug\KartOyunu.Form1.resources
+C:\Users\mine-\Desktop\örnekler\repos\KartOyunu\KartOyunu\obj\Debug\KartOyunu.Properties.Resources.resources
+C:\Users\mine-\Desktop\örnekler\repos\KartOyunu\KartOyunu\obj\Debug\KartOyunu.csproj.GenerateResource.cache
+C:\Users\mine-\Desktop\örnekler\repos\KartOyunu\KartOyunu\obj\Debug\KartOyunu.csproj.CoreCompileInputs.cache
+C:\Users\mine-\Desktop\örnekler\repos\KartOyunu\KartOyunu\obj\Debug\KartOyunu.exe
+C:\Users\mine-\Desktop\örnekler\repos\KartOyunu\KartOyunu\obj\Debug\KartOyunu.pdb
